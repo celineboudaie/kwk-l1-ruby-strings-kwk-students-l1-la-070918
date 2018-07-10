@@ -1,1 +1,1 @@
-puts"Dear" + name 
+puts"Dear" + name + ","
