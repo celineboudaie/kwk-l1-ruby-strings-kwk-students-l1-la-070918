@@ -1,2 +1,1 @@
-puts"Dear" + name + ","
-name= Hermoine
+puts "Hi! You've been invited to a party "
