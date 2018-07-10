@@ -1,4 +1,4 @@
 puts "Hi! You've been invited to a party. What's your name?"
-name=gets
-"Hermoine"
+guest_name= gets.chomp 
+Puts "Hi""Hermoine"
 puts "Dear" + name + ","
