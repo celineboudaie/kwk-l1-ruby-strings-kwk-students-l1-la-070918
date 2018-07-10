@@ -1,1 +1,2 @@
-puts "Hi! You've been invited to a party "
+puts "Hi! You've been invited to a party. What's your name?"
+guest_name= gets.chomp
